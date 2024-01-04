@@ -1,3 +1,12 @@
+
 body{
    background-color: red; 
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600px;
+}
+p{
+    background-color: aqua;
+    border: 1px solid balac;
 }
